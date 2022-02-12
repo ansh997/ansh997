@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### My Name is Himanshu Pal. I am currently working as an Analyst ar Barclays PLC. I make tools for traders. I like to read about new technologies a lot and maybe build one in future.
-<a href="https://app.daily.dev/shirotama"><img src="https://api.daily.dev/devcards/fc10606dfff543a2877487838d85739b.png?r=zj5" width="400" alt="Himanshu Pal's Dev Card"/></a>
+<a href="https://app.daily.dev/shirotama"><img src="https://github.com/ansh997/ansh997/blob/main/devcard.svg" width="400" alt="Himanshu Pal's Dev Card"/></a>
 
 <!--
 **ansh997/ansh997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
