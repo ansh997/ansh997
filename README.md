@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+#### My Name is Himanshu Pal. I am currently working as an Analyst ar Barclays PLC. I make tools for traders. I like to read about new technologies a lot and maybe build one in future.
 <a href="https://app.daily.dev/shirotama"><img src="https://api.daily.dev/devcards/fc10606dfff543a2877487838d85739b.png?r=zj5" width="400" alt="Himanshu Pal's Dev Card"/></a>
 
 <!--
