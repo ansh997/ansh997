@@ -1,6 +1,7 @@
 ### Hi there 👋
 #### My Name is Himanshu Pal. I am currently pursuing a master's in CS at IIIT-Hyderabad. I like to read about new technologies a lot and maybe build one in future.
-<a href="https://app.daily.dev/shirotama"><img src="https://github.com/ansh997/ansh997/blob/main/devcard.svg" width="400" alt="Himanshu Pal's Dev Card"/></a>
+<a href="https://app.daily.dev/shirotama"><img src="https://api.daily.dev/devcards/v2/_UsHZhO5D.png?r=t8z" width="400" alt="Himanshu Pal's Dev Card"/></a>
+<!--<a href="https://app.daily.dev/shirotama"><img src="https://github.com/ansh997/ansh997/blob/main/devcard.svg" width="400" alt="Himanshu Pal's Dev Card"/></a>-->
 
 <!--
 **ansh997/ansh997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
